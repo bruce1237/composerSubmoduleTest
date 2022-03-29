@@ -1,0 +1,16 @@
+{
+    "name": "bo/composer-submodule-test",
+    "authors": [
+        {
+            "name": "bruce1237",
+            "email": "sunbohouse@gmail.com"
+        }
+    ],
+    "repositories": [{
+        "type":"vcs",
+        "url": "https://github.com/bruce1237/composertt"
+    }],
+    "require": {
+        "bruce1237/composertt":"v1.0-dev"
+    }
+}
