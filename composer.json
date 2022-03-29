@@ -11,5 +11,11 @@
             "email": "sunbohouse@gmail.com"
         }
     ],
-    "require": {}
+    "repositories": [{
+        "type":"vcs",
+        "url": "https://github.com/bruce1237/composertt"
+    }],
+    "require": {
+        "bruce1237/composertt ": "dev-develop"
+    }
 }
