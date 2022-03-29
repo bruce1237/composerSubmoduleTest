@@ -13,9 +13,9 @@
     ],
     "repositories": [{
         "type":"vcs",
-        "url": "https://github.com/bruce1237/composertt"
+        "url": "git@github.com:bruce1237/composertt.git"
     }],
     "require": {
-        "bruce1237/composertt ": "dev-develop"
+        "bruce1237/composertt": "v2.0-dev"
     }
 }
