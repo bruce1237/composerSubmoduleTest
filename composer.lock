@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "165a94cd81609c27d6f30c3b2dcfe379",
+    "packages": [
+        {
+            "name": "bo/composer-t",
+            "version": "7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bruce1237/composertt.git",
+                "reference": "e6d0bcc8e5ac5b73a060e670c63d665266def72f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bruce1237/composertt/zipball/e6d0bcc8e5ac5b73a060e670c63d665266def72f",
+                "reference": "e6d0bcc8e5ac5b73a060e670c63d665266def72f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Bo\\ComposerT\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "bruce1237",
+                    "email": "sunbohouse@gmail.com"
+                }
+            ],
+            "support": {
+                "source": "https://github.com/bruce1237/composertt/tree/7.0",
+                "issues": "https://github.com/bruce1237/composertt/issues"
+            },
+            "time": "2022-03-29T18:13:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

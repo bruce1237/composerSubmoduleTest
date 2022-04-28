@@ -16,6 +16,12 @@
         "url": "git@github.com:bruce1237/composertt.git"
     }],
     "require": {
-	"bo/composer-t":"v3.0"
+        "bo/composer-t": "dev-develop"
+	#above is to deploy the develop branch in the VSC url and composer package name is: bo/composer-t
+	#bo/composer-t is the composer package name NOT the github repo name
+	#dev- is a prefix to indicate after dev- is the branch name in the repo
+	 
+	"bo/composer-t":"2.0"
+	#indicate to deploy the release of 2.0
     }
 }
